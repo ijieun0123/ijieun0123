@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E97FD,100:a82da8&height=190&section=header&text=Hi🥰%20I'm%20Ji%20Eun%20Lee&fontSize=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E97FD,100:a82da8&height=190&section=header&text=Hi🥰%20I'm%20Ji%20Eun%20Lee&fontSize=40&fontColor=ffffff" />
 
 <br/>
 
@@ -9,4 +9,4 @@
 <br/>
 
 <h1>Contact Me</h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E97FD,100:a82da8&height=100&section=footer&text=ijieun0123@gmail.com&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E97FD,100:a82da8&height=100&section=footer&text=ijieun0123@gmail.com&fontSize=30&fontColor=ffffff" />
