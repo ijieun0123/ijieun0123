@@ -1,6 +1,6 @@
-### Hi there 👋
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E97FD,100:a82da8&height=500&section=header&text=I'm Ji Eun Lee&fontSize=90" />
+
+<br/><br/>
 
 <h1>Tech Stack</h1>
 
@@ -25,3 +25,8 @@
 <img src="https://img.shields.io/badge/jQuery
 -0769AD?style=flat-square&logo=jQuery
 &logoColor=white"/>
+
+<br/><br/>
+
+<h1>Contact Me</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E97FD,100:a82da8&height=100&section=footer&text=ijieun0123@gmail.com&fontSize=40" />
